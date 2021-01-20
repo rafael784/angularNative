@@ -1,0 +1,1 @@
+instalar qualquer projeto angularNative e inserir e substituit a pasta SRC
